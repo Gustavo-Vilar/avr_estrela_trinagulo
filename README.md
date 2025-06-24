@@ -1,1 +1,1 @@
-# avr_partida_estrela_triangulo
+# Avr_Estrela_triangulo_01
